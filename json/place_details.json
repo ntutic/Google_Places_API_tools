@@ -1,0 +1,148 @@
+{
+    "address_components": [
+        {
+            "long_name": "Sherbrooke",
+            "short_name": "Sherbrooke",
+            "types": [
+                "locality",
+                "political"
+            ]
+        },
+        {
+            "long_name": "La R\u00e9gion-Sherbrookoise Regional County Municipality",
+            "short_name": "La R\u00e9gion-Sherbrookoise Regional County Municipality",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Quebec",
+            "short_name": "QC",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "long_name": "Canada",
+            "short_name": "CA",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "adr_address": "<span class=\"locality\">Sherbrooke</span>, <span class=\"region\">QC</span>, <span class=\"country-name\">Canada</span>",
+    "formatted_address": "Sherbrooke, QC, Canada",
+    "geometry": {
+        "location": {
+            "lat": 45.4041718,
+            "lng": -71.8929107
+        },
+        "viewport": {
+            "northeast": {
+                "lat": 45.533256,
+                "lng": -71.802458
+            },
+            "southwest": {
+                "lat": 45.3008991,
+                "lng": -72.145805
+            }
+        }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+    "name": "Sherbrooke",
+    "photos": [
+        {
+            "height": 2736,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114523284288403261844\">Mario Hains</a>"
+            ],
+            "photo_reference": "CkQ0AAAAh84D7NBKq6C4_Shb1392HCbJIifqnWu-7eDMdkpc4OJrTUXoPPdbIVZMJUKP5TuIz8Zy51BziN4DrAxoV7AXbBIQtgDCYBQ2GIL-k0IoC3JzJxoU3ItVBP_zzC__Hcgmp5d2f7SLLuc",
+            "width": 3648
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/107930308627557251982\">Fondation-Famille- Sympholine</a>"
+            ],
+            "photo_reference": "CkQ0AAAA3ZrjuwF5pqAeDuL-sVibemvipGIuPymYZc4xQtxfIbuXSDpvWOWNVbwNf5PGPR9GDfyuB6-7v__eQikUlL7D3hIQXEdE0WJHUlWncLEvA0siqRoUPJ_4IqyloOm4XKoNvl19x_BNipE",
+            "width": 3264
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/111180744477099323645\">Alain Lachance</a>"
+            ],
+            "photo_reference": "CkQ0AAAAGXSvD2Cw_AwzS38iMVEGj33lk3yIDigZ6JqUinG98TgwBwIEF8-VqWE6EkktGSkVYtkoEjRc7EaZ-2yG2esImRIQSZqB3Ob1fBGhtMhgz1ewxhoUn9ipqg1B8EcBPKPkou4vXmn6bwk",
+            "width": 4032
+        },
+        {
+            "height": 1960,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/106990753086821665544\">Sami Kara\u015f\u0131n</a>"
+            ],
+            "photo_reference": "CkQ0AAAAH43H4NvI9O1S4H5QnPK7egqrINhv4Z8yhww1jYbugIN2e84R_w3HmEPFAc4m7T3MgnMYJrsjVxRWERKwlBgOphIQ8rA193eFiZjJ3qUAr4y4TRoURXqIVTMiokubnNvWmlT1bdoinPA",
+            "width": 4032
+        },
+        {
+            "height": 2268,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/102923756772967204893\">Andrei Chiorean</a>"
+            ],
+            "photo_reference": "CkQ0AAAAlM-3SYok33XCaz8SCAu229BuHpFR8pD9_dea71eY0NLu6OQpp5B3nNaMm2i3pcGYpdzA509pjZigDrYCKq5f5BIQFPTFJWxKpIKhfn_iBQEKYhoUgW55o51nuTL8XPXIqtfQkolZcws",
+            "width": 4032
+        },
+        {
+            "height": 2988,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/114523284288403261844\">Mario Hains</a>"
+            ],
+            "photo_reference": "CkQ0AAAA2gqBltaEEU6_LpkdG8pJwOqrSB0NibxfkpAyfXAqgWjH5Of64fqaMa6KtcKYAR5TvhnWPww-6JREOxSWDtDqVhIQ7wmmS0rk4OU5r2jHLGZ41BoUh7_aMNgT9OE259gjQqoUbriQ65g",
+            "width": 5312
+        },
+        {
+            "height": 800,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/109218759971860088757\">Dragan Milovanovic photography</a>"
+            ],
+            "photo_reference": "CkQ0AAAApRTGVqOt17-UptAYeXG4_dqRs74sUVNWBAIeASHmrWrqm5p0o2aMhxpeIJpPg2tb2kT2Aku3HZuMNMm2ilOkDhIQDuTNfMX1IGs-aoMcqfHgQhoUtkirq84fyw8HJkO1Ud9gAdej4V4",
+            "width": 1200
+        },
+        {
+            "height": 2448,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/101835418824109089261\">Andrew Turk</a>"
+            ],
+            "photo_reference": "CkQ0AAAAYQB9tzhgpLwOHe8d42FEmZjXJ9p54Hio5UgCHRo_mmTVeEBqWfKVbtOmYPaBvxwT6CGECM6ynbgsWo1zHTzYMRIQ1ZkJybdV4ti82q3skmk0CxoUOX2AQQEHS55NRdI4_aeLH75HQdc",
+            "width": 3264
+        },
+        {
+            "height": 1200,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/104458700635042597780\">Hector Martinez</a>"
+            ],
+            "photo_reference": "CkQ0AAAAURT-LJpcxjVb7MKw2szspoZDDrYwawKmzyhhT8WMdQUnCieZRTWL32C8qAdgCqJVQmrv46_4sno-uye-hdaVURIQV7rDgmX_6Ql0iE69TJ_TMBoUdOcHyDXf2W7s685TnJFfbTymU_0",
+            "width": 1600
+        },
+        {
+            "height": 3024,
+            "html_attributions": [
+                "<a href=\"https://maps.google.com/maps/contrib/103241390587419257415\">\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0417\u0430\u043f\u0440\u0443\u0434\u043d\u043e\u0432</a>"
+            ],
+            "photo_reference": "CkQ0AAAA0dRnddu5nTJiQ6wPeSSCEHR5lWbgcaiU3ZtHDi1CSr4WWqV2OLsvnSbherCm3FYQOgxb8DHachiX7S6GBjrrBRIQ8K-bVVzNV7r82bgmjjYzexoUYWfFBgYH4vHH-SxaHwyyseU-MUM",
+            "width": 4032
+        }
+    ],
+    "place_id": "ChIJ_8s11wyzt0wRZwdc0iGNGvE",
+    "reference": "ChIJ_8s11wyzt0wRZwdc0iGNGvE",
+    "types": [
+        "locality",
+        "political"
+    ],
+    "url": "https://maps.google.com/?q=Sherbrooke,+QC,+Canada&ftid=0x4cb7b30cd735cbff:0xf11a8d21d25c0767",
+    "utc_offset": -240,
+    "vicinity": "Sherbrooke",
+    "website": "http://www.ville.sherbrooke.qc.ca/"
+}

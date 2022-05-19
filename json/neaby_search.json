@@ -1,0 +1,956 @@
+{
+    "html_attributions": [],
+    "next_page_token": "CqQCFgEAAOJAHgA07DB4cN2N5GTk1Imc5nHA5TQcCUhcRdHbxa9cx3WaoPdE6i0X1r3e25uXwMX5P9EpBWIjvyTnQAKiblTUgfFbs-JsgsfP7AwKlReogj09sfxivjINZdbxs-T9vYAkMq-h1ymnGiK1AU7VCNUtLUQE5z2cORExuaGC8uFqKXkjgOcaPUSEgEYe9cFXeeUV5qMSTtrsIZrxUQiID3OBD8noph7AvKL1S0F06uN3T7SGwoSASrr8KQ2PzA2ZKX3wuCsvRdHYhxr_5eavmlHadFzVMM85e4oCp2EymQDB3g3njZp14HB6qifaMIoZKjTQMSeGIgGIDtIsm1CzAg68nkYQQeZLRjQUoSJy1FBvP3vw3X9tJgMA06oXqq5zbBIQxBrY6CflYbKwkm9IiaPA0RoUzCwR243UfzpVQkRhKrosiO4FpxE",
+    "results": [
+        {
+            "geometry": {
+                "location": {
+                    "lat": 45.4041718,
+                    "lng": -71.8929107
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.533256,
+                        "lng": -71.802458
+                    },
+                    "southwest": {
+                        "lat": 45.3008991,
+                        "lng": -72.145805
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "name": "Sherbrooke",
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114523284288403261844\">Mario Hains</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAYI6nvQD5xZad5dqq8c-myf9zhW1D2BShFjTDVxfzWWsvVDVYgOoMCcgQCz5tMpERrVBXnUY3K-9GM-NT1pXgiBIQdzbFW8TzAeZK-dJG1gxH3xoUNt7VF2897lKkg3PzQ9qffhYg-Kk",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJ_8s11wyzt0wRZwdc0iGNGvE",
+            "reference": "ChIJ_8s11wyzt0wRZwdc0iGNGvE",
+            "scope": "GOOGLE",
+            "types": [
+                "locality",
+                "political"
+            ],
+            "vicinity": "Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.398184,
+                    "lng": -71.8968
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.3995830302915,
+                        "lng": -71.89530671970849
+                    },
+                    "southwest": {
+                        "lat": 45.3968850697085,
+                        "lng": -71.8980046802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Grand Times Hotel Sherbrooke",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 600,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107744912578892193141\">Grand Times Hotel Sherbrooke</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAQa0L9JYhx8b9IOSdB_OX19tDul6y2le1uPRgnS7vR03C-IaaPakog_El6V2DxYmHCq02VStHLk7Gn-9NR2BgyRIQEXMDt37A4PQUEIBT3N3NZxoUzOQuyBuC_UzZ_a2NA9xK_Ziu8ig",
+                    "width": 900
+                }
+            ],
+            "place_id": "ChIJrWx8dxGzt0wR9GDOLFWq9zI",
+            "plus_code": {
+                "compound_code": "94X3+77 Sherbrooke, QC, Canada",
+                "global_code": "87QC94X3+77"
+            },
+            "rating": 4.1,
+            "reference": "ChIJrWx8dxGzt0wR9GDOLFWq9zI",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 562,
+            "vicinity": "1 Rue Belv\u00e9d\u00e8re Sud, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.3933458,
+                    "lng": -71.9556278
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.3945798302915,
+                        "lng": -71.95439786970849
+                    },
+                    "southwest": {
+                        "lat": 45.3918818697085,
+                        "lng": -71.95709583029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "H\u00f4tel Le Pr\u00e9sident Sherbrooke",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3888,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112089205677768838235\">H\u00f4tel Le Pr\u00e9sident Sherbrooke</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAgmr2RY15oQmSCtS3oDAVHTizAEeFgNiGQ86neqjZ3oVV2VyWoLkqfutvBs2ls6tVmGT6SKBWrXlauQU9d-jinxIQViVeJ9ZvdHovzqfhmIZSHBoUi14FQt01XGuIRB2lUlFtghj6h7g",
+                    "width": 5184
+                }
+            ],
+            "place_id": "ChIJG09VOLq0t0wRREr6Mo_BK9A",
+            "plus_code": {
+                "compound_code": "92VV+8P Sherbrooke, QC, Canada",
+                "global_code": "87QC92VV+8P"
+            },
+            "rating": 4,
+            "reference": "ChIJG09VOLq0t0wRREr6Mo_BK9A",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 929,
+            "vicinity": "3535 Rue King Ouest, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.38551179999999,
+                    "lng": -71.9622196
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.38699343029149,
+                        "lng": -71.9610210197085
+                    },
+                    "southwest": {
+                        "lat": 45.3842954697085,
+                        "lng": -71.9637189802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Quality Hotel & Suites",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100868962496371250540\">Quality Hotel &amp; Suites</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAA6sikVZIkBxwPkap8ZngNmsh-gH16OQ16rVXPrPWPNdEYjFkGu3gNYR6EanGz8SqsbUOmsEN0-jvNIu4JsmBbURIQtgMfulrMPBwUgia-O72veBoU9DfGLlZurAFDm6LrFGi8osllhMk",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJF-D7ZLS0t0wRJAUoj4Nb3Pc",
+            "plus_code": {
+                "compound_code": "92PQ+64 Sherbrooke, QC, Canada",
+                "global_code": "87QC92PQ+64"
+            },
+            "rating": 3.6,
+            "reference": "ChIJF-D7ZLS0t0wRJAUoj4Nb3Pc",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 219,
+            "vicinity": "4206 King Street West, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.38137,
+                    "lng": -71.87157239999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.3825845802915,
+                        "lng": -71.8703026197085
+                    },
+                    "southwest": {
+                        "lat": 45.3798866197085,
+                        "lng": -71.8730005802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Hotel-Motel La Marquise",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113742388317422883240\">Hotel-Motel La Marquise</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAp6M7oBUwrJZe71uxZI0hEe_k0MDRUbhLF3Nu8Cvfqzw7jaaQwrbH_JitM_txgGG0c_bPOx-EsPFUBdixQ6M8oBIQdXKmaWqtZFDhcUZy8HDCAhoUvNu4aa5eKfSi0kisIcQUgTGu6EI",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJy5Kt88Syt0wRsk9skxpoNQ8",
+            "plus_code": {
+                "compound_code": "94JH+G9 Sherbrooke, QC, Canada",
+                "global_code": "87QC94JH+G9"
+            },
+            "rating": 3.3,
+            "reference": "ChIJy5Kt88Syt0wRsk9skxpoNQ8",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 188,
+            "vicinity": "1700 Rue Wellington Sud, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.3996478,
+                    "lng": -71.9392866
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.4010447302915,
+                        "lng": -71.9381128197085
+                    },
+                    "southwest": {
+                        "lat": 45.3983467697085,
+                        "lng": -71.94081078029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Delta Hotels by Marriott Sherbrooke Conference Centre",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 810,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103067980684768803229\">Delta Hotels by Marriott Sherbrooke Conference Centre</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAADodhM5p0XGXfDr6m4D-iyK277osTSr3lYowr58x3nNpbHqzC6TBJEISZ2IKdrgl8vv5BjAIZ2QMGqjY5EKzNKBIQPNceOt5Q_WdSGJoBO8KW8hoUyrRMZA0inyCgPg2SqE6Z2zDNWKw",
+                    "width": 1440
+                }
+            ],
+            "place_id": "ChIJGSlzm5i0t0wR_lojQSxq1y0",
+            "plus_code": {
+                "compound_code": "93X6+V7 Sherbrooke, QC, Canada",
+                "global_code": "87QC93X6+V7"
+            },
+            "rating": 4,
+            "reference": "ChIJGSlzm5i0t0wR_lojQSxq1y0",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 448,
+            "vicinity": "2685 Rue King Ouest, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.382371,
+                    "lng": -71.9696435
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.3835751302915,
+                        "lng": -71.96812841970849
+                    },
+                    "southwest": {
+                        "lat": 45.3808771697085,
+                        "lng": -71.9708263802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Comfort Inn",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1365,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114013904393877899729\">Comfort Inn</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAA9tD1Z_-kVLnBR5puFYJoyIPDJu_IOeInoLdQ1-aYu-7XLXMxhBVVmmiqTdnmv-xAgs4ZOP9yqu7B1rLNMlEXeBIQJitGFIDzqyKtHmdu13YtfhoUxJB05K8H1L8dZnxP0TaNSjsCpKg",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJtRwoXTVLtkwRJ0QRvUFfV2Y",
+            "plus_code": {
+                "compound_code": "92JJ+W4 Sherbrooke, QC, Canada",
+                "global_code": "87QC92JJ+W4"
+            },
+            "rating": 3.8,
+            "reference": "ChIJtRwoXTVLtkwRJ0QRvUFfV2Y",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 248,
+            "vicinity": "4295 Boulevard Bourque, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.36092379999999,
+                    "lng": -71.8569162
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.3623654302915,
+                        "lng": -71.8557734697085
+                    },
+                    "southwest": {
+                        "lat": 45.3596674697085,
+                        "lng": -71.85847143029152
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Motel la Paysanne",
+            "photos": [
+                {
+                    "height": 2592,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112497326274639279778\">jacky terrisse</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAA4gu-4mRftBS-zoIEI-AtqM6BSPcAIh6lbZZpDzz55lZKxCjs3BOPHrQUrPjHmYjHwhsoSwxIX1Caag4bNnINyRIQIKNPIAxfN3l7yKUCbdBVoRoUBrm2LndijgoIY7daHauphO0u4e8",
+                    "width": 4608
+                }
+            ],
+            "place_id": "ChIJAQIHKVJNtkwRQI0dlD52iso",
+            "plus_code": {
+                "compound_code": "946V+96 Sherbrooke, QC, Canada",
+                "global_code": "87QC946V+96"
+            },
+            "rating": 3.5,
+            "reference": "ChIJAQIHKVJNtkwRQI0dlD52iso",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 136,
+            "vicinity": "42 Rue Queen, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.4023411,
+                    "lng": -71.9002565
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.40364693029149,
+                        "lng": -71.89886481970849
+                    },
+                    "southwest": {
+                        "lat": 45.4009489697085,
+                        "lng": -71.90156278029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Auberge Marquis de Montcalm",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1332,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118171909521591670790\">Auberge Marquis de Montcalm</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAiIxDwBGoXqS8Ldhq_iL3pydVDjM74FpmggB1-EpqQ0Sguhhg2zgXTlJ4Q_5Wbx7pQXiOw3DaywC-aHF1ONfXxBIQf5654lXmIu2bJmb8Umx8MhoUi8rO9Ldt-UAQ4dAxeABsAXCMT0M",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJmaPHZw2zt0wRhfRyMCy2mjI",
+            "plus_code": {
+                "compound_code": "C32X+WV Sherbrooke, QC, Canada",
+                "global_code": "87QCC32X+WV"
+            },
+            "rating": 4.9,
+            "reference": "ChIJmaPHZw2zt0wRhfRyMCy2mjI",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 47,
+            "vicinity": "797 Rue du G\u00e9n\u00e9ral-De Montcalm, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.43405990000001,
+                    "lng": -71.867687
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.4353433302915,
+                        "lng": -71.8663371697085
+                    },
+                    "southwest": {
+                        "lat": 45.4326453697085,
+                        "lng": -71.86903513029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "H\u00f4tel le Floral",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 396,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113057587949786027656\">H\u00f4tel le Floral</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAADqJe_PbPn6rfcFnbojtEAFwaC_iJf4MxRrHsuVBA1FQas6FhR8lv-W1p4nsJmHvbsUbMoRel45Kgr5HCQpEy1BIQ6vehtP_lMHKZ842HJ24gIxoU2O67KR60LfHJk-3Cg2Bf5KP54I8",
+                    "width": 580
+                }
+            ],
+            "place_id": "ChIJNVaCQ8-zt0wRRHUuDZyyrf8",
+            "plus_code": {
+                "compound_code": "C4MJ+JW Sherbrooke, QC, Canada",
+                "global_code": "87QCC4MJ+JW"
+            },
+            "rating": 4.4,
+            "reference": "ChIJNVaCQ8-zt0wRRHUuDZyyrf8",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 367,
+            "vicinity": "1920 12e Avenue Nord, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.4079319,
+                    "lng": -71.89851519999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.4093980302915,
+                        "lng": -71.8971068197085
+                    },
+                    "southwest": {
+                        "lat": 45.4067000697085,
+                        "lng": -71.8998047802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "B&B \u00cele de Garde",
+            "photos": [
+                {
+                    "height": 2736,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114523284288403261844\">Mario Hains</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAhCjoQsDxCx7EJc4ZNwXO3vRpaU8sNOXE2SUxblvyS3N1AZQ1VnuzDG9Hpqa3VY-pgJKS97UhSE71hKhzPuSn5RIQ95_o0W6xpe4dybDikZTgdhoUHhT-sRgqDK6LSS0bFfy8GFpH-L8",
+                    "width": 3648
+                }
+            ],
+            "place_id": "ChIJheaHzXSzt0wRcfuY9aew-bU",
+            "plus_code": {
+                "compound_code": "C452+5H Sherbrooke, QC, Canada",
+                "global_code": "87QCC452+5H"
+            },
+            "rating": 4.7,
+            "reference": "ChIJheaHzXSzt0wRcfuY9aew-bU",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 41,
+            "vicinity": "576 Rue Prospect, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.2989512,
+                    "lng": -71.9512688
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.30068508029149,
+                        "lng": -71.9502902697085
+                    },
+                    "southwest": {
+                        "lat": 45.29798711970849,
+                        "lng": -71.95298823029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Auberge Manoir Le Tricorne",
+            "photos": [
+                {
+                    "height": 2632,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117697560942431158418\">Frederic Boucher</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAxq2FhHk3HY9LOJc1Avek_wPyMmSpv-3PO4vbGy2FcH3poPoLZMS5wt2nCVsQFQmp6T8bHURAklgMT1_UTUPeMxIQ0BuuF8LN2Ka8Kxc0JGWrUBoUytUFAw4cA6FDaqRd_6S0h7x0YO8",
+                    "width": 3925
+                }
+            ],
+            "place_id": "ChIJp2IbdYNOtkwRqd-cUUVy8uI",
+            "plus_code": {
+                "compound_code": "72XX+HF North Hatley, QC, Canada",
+                "global_code": "87QC72XX+HF"
+            },
+            "rating": 4.7,
+            "reference": "ChIJp2IbdYNOtkwRqd-cUUVy8uI",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 36,
+            "vicinity": "50 Chemin Gosselin, North Hatley"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.402206,
+                    "lng": -71.9005439
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.4035105302915,
+                        "lng": -71.8991514197085
+                    },
+                    "southwest": {
+                        "lat": 45.40081256970851,
+                        "lng": -71.90184938029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Villa Marco Polo",
+            "photos": [
+                {
+                    "height": 4128,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107266927556270294473\">Lodewijck Foorthuis</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAATZilFarIoXd0VH2Y7XvWy4YKpHXdegml7FVBMDJ1OFG5Amw8g_TVslX4OJ8JAOBtlhhONxDXbA4abARROg6DJxIQF6_KmEf2QaCV48kxU4V2NxoUlwUh5y8qVnnJ1x7_8o33Y4c0lmI",
+                    "width": 2322
+                }
+            ],
+            "place_id": "ChIJcQ-TXQ2zt0wR6HxviaxnpaY",
+            "plus_code": {
+                "compound_code": "C32X+VQ Sherbrooke, QC, Canada",
+                "global_code": "87QCC32X+VQ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJcQ-TXQ2zt0wR6HxviaxnpaY",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3,
+            "vicinity": "811 Rue du G\u00e9n\u00e9ral-De Montcalm, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.34187190000001,
+                    "lng": -71.9143564
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.3432152802915,
+                        "lng": -71.91253546970849
+                    },
+                    "southwest": {
+                        "lat": 45.3405173197085,
+                        "lng": -71.91523343029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+            "name": "Lecomte De La Fontaine",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107420593800670535611\">marie claude robillard</a>"
+                    ],
+                    "photo_reference": "CkQzAAAAnKFuP8e4RnObmDGhIj-RGE9X_4WLtNFv20JIWFDI9DZSFD0QJ6DVNc4Y7fG89rL-cKr-Mb8aVm7gS84tpsfnYBIQ6rzI3SGRb862LkjzEuz-vBoUyq5bhXt_YvTmvzLDFFeDuN0o7Pw",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ-yHse_1MtkwR7vQ6kikTsc0",
+            "plus_code": {
+                "compound_code": "83RP+P7 North Hatley, QC, Canada",
+                "global_code": "87QC83RP+P7"
+            },
+            "rating": 5,
+            "reference": "ChIJ-yHse_1MtkwR7vQ6kikTsc0",
+            "scope": "GOOGLE",
+            "types": [
+                "lodging",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 20,
+            "vicinity": "3985 Chemin d'Albert Mines RR2, North Hatley"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.3837737,
+                    "lng": -71.9620549
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.3851758302915,
+                        "lng": -71.9610138697085
+                    },
+                    "southwest": {
+                        "lat": 45.3824778697085,
+                        "lng": -71.9637118302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+            "name": "Cin\u00e9ma Galaxy Sherbrooke",
+            "photos": [
+                {
+                    "height": 290,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/105528977038986285086\">Cin\u00e9ma Galaxy Sherbrooke</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAOX5-eyprZ-VjqtcgXdaUZEG3kJMSqOdZKy_bLSbDqHDvWe2JhnNXtEAUqE6vMV3LcDHH590SUbF85xctVvjdtRIQj_ZosBU83lRCi_5qJweg4xoUnKiy1G6-t_qXz2BqMhZnR4Y8Sfw",
+                    "width": 512
+                }
+            ],
+            "place_id": "ChIJww2VqbS0t0wRX4Z0-AJKuSY",
+            "plus_code": {
+                "compound_code": "92MQ+G5 Sherbrooke, QC, Canada",
+                "global_code": "87QC92MQ+G5"
+            },
+            "rating": 4.2,
+            "reference": "ChIJww2VqbS0t0wRX4Z0-AJKuSY",
+            "scope": "GOOGLE",
+            "types": [
+                "movie_theater",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1637,
+            "vicinity": "4204 Rue Bertrand-Fabi, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.4196762,
+                    "lng": -71.9659531
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.4208870302915,
+                        "lng": -71.96475261970849
+                    },
+                    "southwest": {
+                        "lat": 45.4181890697085,
+                        "lng": -71.9674505802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "name": "Canadian Tire",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 608,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103107741534803432030\">Canadian Tire</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAvGpZHlQ5TBiuJZNDTc9ZkRW1xIDe_QVOS0zaL3YoQkCEWDMp5EsEu0iRWkXsydEFxyoxJyT9_fsJ3GpG1SkMdBIQvUbCkUjz5UnFskwLgmGZ2BoUKQ46T4gvi3Od-cAOUBBbqFt3TOQ",
+                    "width": 1080
+                }
+            ],
+            "place_id": "ChIJ86Rk2v60t0wRFjzIqnO9Zw8",
+            "plus_code": {
+                "compound_code": "C29M+VJ Sherbrooke, QC, Canada",
+                "global_code": "87QCC29M+VJ"
+            },
+            "rating": 4,
+            "reference": "ChIJ86Rk2v60t0wRFjzIqnO9Zw8",
+            "scope": "GOOGLE",
+            "types": [
+                "department_store",
+                "car_repair",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 1236,
+            "vicinity": "4100 Boulevard Josaphat-Rancourt, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.4020923,
+                    "lng": -71.9571333
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.4033662302915,
+                        "lng": -71.95566596970849
+                    },
+                    "southwest": {
+                        "lat": 45.4006682697085,
+                        "lng": -71.9583639302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "name": "Archambault",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107217532809012707020\">Martin Roy</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAajSnMCc2bs_tawm9lFdsDOmREjS0qommaCI-U7PtULrFxHDL8eTGma9056yPqZr8EGRuc_fjHl0FcKViFzKUaBIQ_cV-lC5L-N9fF9KSDaK9mxoUHH_qLXs879JiRn_v9U_YWeUbT0k",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJAXHm5Za0t0wRLkcHOAj4HF8",
+            "plus_code": {
+                "compound_code": "C22V+R4 Sherbrooke, QC, Canada",
+                "global_code": "87QCC22V+R4"
+            },
+            "rating": 4.3,
+            "reference": "ChIJAXHm5Za0t0wRLkcHOAj4HF8",
+            "scope": "GOOGLE",
+            "types": [
+                "book_store",
+                "electronics_store",
+                "home_goods_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 193,
+            "vicinity": "3270 Boulevard De Portland Suite 300, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.401368,
+                    "lng": -71.9526551
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.40531439999999,
+                        "lng": -71.94060615
+                    },
+                    "southwest": {
+                        "lat": 45.3983652,
+                        "lng": -71.96389755
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+            "name": "Carrefour de l'Estrie",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102314843503897375499\">Danny Champagne</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAA7xH5__T7m_6BdfWFcFr1blyT5moFAYDm4f6HTkhFYDbAvbjPBhE_7jmuw9UBbUdKZZtcplMNQy-NrKlOKFJ6WBIQC7Weesfhtxfyb8k5Rp7bPhoU6VzXQINw2dijy2QxssTRZF4KhWE",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJISS0qpW0t0wRZjXwiitmrH4",
+            "plus_code": {
+                "compound_code": "C22W+GW Sherbrooke, QC, Canada",
+                "global_code": "87QCC22W+GW"
+            },
+            "rating": 4.3,
+            "reference": "ChIJISS0qpW0t0wRZjXwiitmrH4",
+            "scope": "GOOGLE",
+            "types": [
+                "shopping_mall",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 4690,
+            "vicinity": "3050 Boulevard de Portland, Sherbrooke"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 45.3959707,
+                    "lng": -71.8950998
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.3969864802915,
+                        "lng": -71.89379051970849
+                    },
+                    "southwest": {
+                        "lat": 45.3942885197085,
+                        "lng": -71.89648848029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/pharmacy_cross-71.png",
+            "name": "Pharmaprix",
+            "opening_hours": {
+                "open_now": false
+            },
+            "photos": [
+                {
+                    "height": 1836,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114523284288403261844\">Mario Hains</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAAeHmwnFMbg9hiXyG839GZi3uApIS5-00yS_KyVerE9zNcRQhfLPwCOCf_THwwMTWZGpLDHXfY2PX7_DOWUK8MPhIQJsyseQyHGF1rNmphWo1gXBoUjDPAwH-O1b3798nyPMu8vyLG8WU",
+                    "width": 3264
+                }
+            ],
+            "place_id": "ChIJGaNJUgazt0wRmEZ_hq7AJ4U",
+            "plus_code": {
+                "compound_code": "94W3+9X Sherbrooke, QC, Canada",
+                "global_code": "87QC94W3+9X"
+            },
+            "rating": 3.6,
+            "reference": "ChIJGaNJUgazt0wRmEZ_hq7AJ4U",
+            "scope": "GOOGLE",
+            "types": [
+                "pharmacy",
+                "health",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "user_ratings_total": 40,
+            "vicinity": "420 Rue Belv\u00e9d\u00e8re Sud, Sherbrooke"
+        },
+        {
+            "geometry": {
+                "location": {
+                    "lat": 45.4038163,
+                    "lng": -71.9383141
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 45.448817,
+                        "lng": -71.8896618
+                    },
+                    "southwest": {
+                        "lat": 45.3840998,
+                        "lng": -71.98511189999999
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+            "name": "Jacques-Cartier",
+            "photos": [
+                {
+                    "height": 4032,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/102329044384683420238\">Mahdi Aflaki</a>"
+                    ],
+                    "photo_reference": "CkQ0AAAASxrXpyutM_5oy4kV8axWgwXnoZeq3-XARDWQUhwu-Ysiwx-Van6aQ8VsbGH8y2bEhs07Qkr5yMWmVV_PQlKvZBIQusOA-IEt20161_bkZyZcUhoUU_kI5kvMa7wTcQ0LwjP0zwtn4uo",
+                    "width": 2268
+                }
+            ],
+            "place_id": "ChIJjzXdpoS0t0wRvv507flCXMw",
+            "reference": "ChIJjzXdpoS0t0wRvv507flCXMw",
+            "scope": "GOOGLE",
+            "types": [
+                "sublocality_level_1",
+                "sublocality",
+                "political"
+            ],
+            "vicinity": "Jacques-Cartier"
+        }
+    ],
+    "status": "OK"
+}
